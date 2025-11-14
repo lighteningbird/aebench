@@ -1,0 +1,11 @@
+data/ filter=lfs diff=lfs merge=lfs -text
+data/halu_dialogue.jsonl filter=lfs diff=lfs merge=lfs -text
+data/halu_summarization.jsonl filter=lfs diff=lfs merge=lfs -text
+data/imdb.jsonl filter=lfs diff=lfs merge=lfs -text
+data/mmlu_10k.jsonl filter=lfs diff=lfs merge=lfs -text
+data/wilds_amazon.jsonl filter=lfs diff=lfs merge=lfs -text
+data/cosmosqa_10k.jsonl filter=lfs diff=lfs merge=lfs -text
+data/hellaswag_10k.jsonl filter=lfs diff=lfs merge=lfs -text
+data/squad_v2.jsonl filter=lfs diff=lfs merge=lfs -text
+data/trivia_qa_web.jsonl filter=lfs diff=lfs merge=lfs -text
+data/trivia_qa_wikipedia.jsonl filter=lfs diff=lfs merge=lfs -text
